@@ -382,8 +382,8 @@ h1 p {
 }
 
 .footer__column_content_social {
-  margin-right: 80px;
   justify-content: space-around;
+  padding-right: ;
 }
 
 .footer__logo {
@@ -417,6 +417,7 @@ h1 p {
 .footer__social-icon {
   height: 16px;
   width: 16px;
+  padding-right: 10px;
 }
 
 .footer__copyright {
