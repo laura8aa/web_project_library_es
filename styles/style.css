@@ -402,6 +402,7 @@ h1 p {
   padding: 0;
   flex-direction: column;
   gap: unset;
+  margin: auto;
 }
 
 .footer__list-item {
@@ -420,7 +421,6 @@ h1 p {
 .footer__social-icon {
   height: 16px;
   width: 16px;
-  padding-right: 10px;
 }
 
 .footer__copyright {
