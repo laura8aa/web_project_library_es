@@ -362,7 +362,7 @@ h1 p {
 
 .footer {
   box-sizing: border-box;
-  background: #000000;
+  background: #1f1f1f;
   color: #fff;
   margin: auto;
   padding: 60px 80px;
@@ -383,6 +383,7 @@ h1 p {
 
 .footer__column_content_social {
   justify-content: space-around;
+  margin-left: 80px;
 }
 
 .footer__logo {
@@ -411,6 +412,9 @@ h1 p {
 .footer__column-link {
   color: white;
   text-decoration: none;
+  display: flex;
+  align-items: flex-start;
+  column-gap: 10px;
 }
 
 .footer__social-icon {
