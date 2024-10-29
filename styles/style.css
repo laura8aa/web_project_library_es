@@ -402,7 +402,7 @@ h1 p {
   padding: 0;
   flex-direction: column;
   gap: unset;
-  margin: auto;
+  margin: 0;
 }
 
 .footer__list-item {
@@ -414,7 +414,7 @@ h1 p {
   color: white;
   text-decoration: none;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   column-gap: 10px;
 }
 
